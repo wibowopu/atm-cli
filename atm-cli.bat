@@ -1,0 +1,1 @@
+java -jar build\libs\atm-cli-0.1-all.jar %*
